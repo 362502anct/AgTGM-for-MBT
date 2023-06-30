@@ -15,7 +15,7 @@ Before run the experiments, you should check two things:
 Run the file [test_artifical.m](test_artifical.m) to get the numerical results for the artifical examples which contain the well-conditioned cases and ill-conditioned cases.
 
 ---
-### 3. Artifical examples
+### 3. Practical cases
 Run the file [test_real.m](test_real.m) to get the numerical results for the practical cases which contain: 
 1. The $Q_s$ Lagrangian FEM stiffness matrices for the second order elliptic differential problem on $[0,1]$;
 2. The system from the discretization by staggered DG methods of the incompressible Navier-Stokes equations;
